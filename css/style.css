@@ -1,0 +1,14 @@
+.navbar {
+	width: 100%;
+}
+ol li{
+  list-style-type: none;
+  color:blue;
+}
+
+ol{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	justify-content: space-between;
+}
